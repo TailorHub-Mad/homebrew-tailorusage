@@ -1,6 +1,6 @@
 cask "tailorusage" do
-  version "0.5.2"
-  sha256 "486042703ac68c63907c7d1ab2ab4d8f42e75ac41758d71adef6c625031019a4"
+  version "0.6.0"
+  sha256 "d6c7cada4f8efbc7c5f556df6e1b230d8e538b5aba001a8c415c62696d91a9d9"
 
   url "https://github.com/TailorHub-Mad/TailorUsage/releases/download/v#{version}/TailorUsage_#{version}_aarch64.dmg"
   name "TailorUsage"
